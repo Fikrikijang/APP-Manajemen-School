@@ -4,7 +4,6 @@
     <div class="card">
       <div class="card-body py-2">
         <h4 class="page-title"> <i class="mdi mdi-view-dashboard title_icon"></i> <?php echo get_phrase('dashboard'); ?> </h4>
-        <h5>SELAMAT DATANG DI WEBSITE KAMI.</h5>
       </div> <!-- end card body-->
     </div> <!-- end card -->
   </div><!-- end col-->
